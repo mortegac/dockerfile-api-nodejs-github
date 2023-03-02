@@ -1,0 +1,23 @@
+{
+  "name": "dockerfile-api-nodejs-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortegac/dockerfile-api-nodejs-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mortegac/dockerfile-api-nodejs-github/issues"
+  },
+  "homepage": "https://github.com/mortegac/dockerfile-api-nodejs-github#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
